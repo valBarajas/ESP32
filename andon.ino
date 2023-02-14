@@ -1,4 +1,4 @@
-* ESP32
+/* ESP32
 INPUT_PULLUP          INPUT_PULLDOWN   OUTPUT
 GPIO0 (G0)pz.prod     GPIO4 (G4)       GPIO2 (G2)
 GPIO2 (G2)-paro       GPIO5 (G5)       GPIO4 (G4)
