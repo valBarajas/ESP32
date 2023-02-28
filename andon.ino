@@ -1,13 +1,13 @@
 /* ESP32
 INPUT_PULLUP          INPUT_PULLDOWN   OUTPUT
-GPIO0 (G0)pz.prod     GPIO4 (G4)       GPIO2 (G2)
+GPIO0 (G0)            GPIO4 (G4)       GPIO2 (G2)
 GPIO2 (G2)-paro       GPIO5 (G5)       GPIO4 (G4)
 GPIO4 (G4)-logs       GPIO12 (G12)     GPIO16 (G16)
 GPIO5 (G5)-bad pz     GPIO13 (G13)     GPIO18 (G18)
 GPIO12 (G12)-verde    GPIO14 (G14)     GPIO19 (G19)
 GPIO13 (G13)-amarillo GPIO15 (G15)     GPIO21 (G21)
 GPIO14 (G14)-azul     GPIO16 (G16)     GPIO22 (G22)
-GPIO15 (G15)          GPIO17 (G17)     GPIO23 (G23)
+GPIO15 (G15)-pz.prod  GPIO17 (G17)     GPIO23 (G23)
 GPIO16 (G16)-calid    GPIO18 (G18)     GPIO27 (G27)
 GPIO17 (G17)          GPIO19 (G19)
 GPIO18 (G18)-mtto     GPIO21 (G21)
